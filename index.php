@@ -13,6 +13,7 @@ body, html {
 }
 </style>
 <body>
-</body>
+<footer>2018 &copy; DigiByteOnline.org</footer>
 <script src="/js/bootstrap.js"></script>
+</body>
 </html>
