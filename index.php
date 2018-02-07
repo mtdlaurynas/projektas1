@@ -31,6 +31,7 @@
   <nav class="navbar">
       <a class="navbar-brand" href="#">Start Bootstrap</a>
       <a class="btn btn-primary" href="#">Sign In</a>
+      <a id="reg"; class="btn btn-lg" href="#">Register</a>
     </div>
   </nav>
   <footer>2018 &copy; DigiByteOnline.org</footer>
@@ -52,7 +53,7 @@
               <input type="email" class="form-control form-control-lg" placeholder="kazkoks info...">
             </div>
             <div class="col-12 col-md-3">
-              <button type="submit" class="btn btn-block btn-lg btn-primary">Uzsiregink!</button>
+              <button type="submit" class="btn btn-block btn-primary">Ieškoti</button>
             </div>
           </div>
         </form>

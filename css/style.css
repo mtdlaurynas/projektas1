@@ -4,6 +4,9 @@
 body {
 	background: linear-gradient(#4CA1AF, #C4E0E5)
 }
+#reg {
+	color:black;
+}
 
 header.masthead {
   position: relative;
