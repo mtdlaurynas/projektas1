@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
+<title>DigiByteOnline.org - Decentralized Exchange Fundraising</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/css/bootstrap.css">
@@ -13,4 +13,6 @@ body, html {
 }
 </style>
 <body>
+</body>
 <script src="/js/bootstrap.js"></script>
+</html>
