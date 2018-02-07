@@ -14,7 +14,7 @@
   h4,
   h5,
   h6 {
-    font-family: "Lato", sans-serif;
+    font-family: "Aerial", sans-serif;
   }
 
   body,
